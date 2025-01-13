@@ -31,8 +31,11 @@
    <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junederz&show_icons=true&locale=en&layout=compact" alt="junederz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junederz&show_icons=true&locale=en" alt="junederz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junederz&" alt="junederz" /></p>
+<div align="center">
+   
+  ![JunederZ's Stats](https://github-readme-stats.vercel.app/api?username=JunederZ&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+  
+  ![JunederZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunederZ&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+  
+  ![JunederZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunederZ&theme=algolia&hide_border=false)
+</div>
