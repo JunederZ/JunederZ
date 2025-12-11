@@ -1,5 +1,6 @@
 <h1 align="center">Hey, Juned Here</h1>
 <h3 align="center">Just having fun with coding and stuff</h3>
+<p  align="center">🔗 <a href="https://juned.dev">juned.dev</a></p>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 <h3 align="left">Connect with me:</h3>
@@ -25,6 +26,9 @@
    <img alt="Flask" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
    <img alt="Flutter" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
    <img alt="Jetpack Compose" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+   <img alt="PHP" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img alt="Laravel" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+   <img alt="Svelte" height="42" width="42"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 </p>
 
 <h4>Databases</h4>
@@ -37,6 +41,7 @@
 
 <h4>DevOps & Version Control</h4>
 <p align="left">
+   <img alt="Cloudflare" height="42" width="42"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
    <img alt="Git" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
    <img alt="Nginx" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
 </p>
