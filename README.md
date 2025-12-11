@@ -1,6 +1,5 @@
 <h1 align="center">Hey, Juned Here</h1>
 <h3 align="center">Just having fun with coding and stuff</h3>
-<p  align="center">🔗 <a href="https://juned.dev">juned.dev</a></p>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,10 +46,10 @@
 </p>
 
 <div align="center">
-   
-  ![JunederZ's Stats](https://github-readme-stats.vercel.app/api?username=JunederZ&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+
+   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=JunederZ&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
-  ![JunederZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunederZ&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+  <!-- ![JunederZ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunederZ&theme=algolia&show_icons=true&hide_border=false&layout=compact)
   
-  ![JunederZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunederZ&theme=algolia&hide_border=false)
+  ![JunederZ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JunederZ&theme=algolia&hide_border=false) -->
 </div>
