@@ -9,8 +9,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4>Programming Languages & Frameworks</h4>
-<p align="left"> 
+<h4 align="center">Programming Languages & Frameworks</h4>
+<p align="center"> 
    <img alt="Python" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
    <img alt="C++" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
    <img alt="Java" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -30,16 +30,16 @@
    <img alt="Svelte" height="42" width="42"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
 </p>
 
-<h4>Databases</h4>
-<p align="left">
+<h4 align="center">Databases</h4>
+<p align="center">
    <img alt="PostgreSQL" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
    <img alt="MySQL" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
    <img alt="MongoDB" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
    <img alt="MariaDB" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
 </p>
 
-<h4>DevOps & Version Control</h4>
-<p align="left">
+<h4 align="center">DevOps & Version Control</h4>
+<p align="center">
    <img alt="Cloudflare" height="42" width="42"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
    <img alt="Git" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
    <img alt="Nginx" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
